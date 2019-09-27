@@ -2,5 +2,5 @@
 #SBATCH --mem 2G --ntasks 1
 
 module load RepeatMasker
-
- perl /opt/linux/centos/7.x/x86_64/pkgs/RepeatMasker/4-0-7/util/queryRepeatDatabase.pl -species fungi -clade > fungi.lib
+DIR=$(dirname `which RepeatMasker`)/util
+perl $DIR/queryRepeatDatabase.pl -species fungi -clade > fungi.lib
