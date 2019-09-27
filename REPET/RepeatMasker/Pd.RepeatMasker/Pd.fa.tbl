@@ -1,0 +1,51 @@
+==================================================
+file name: Pd.fa                    
+sequences:          1848
+total length:   30733439 bp  (28404907 bp excl N/X-runs)
+GC level:         50.12 %
+bases masked:    6832510 bp ( 22.23 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:              174        94861 bp    0.31 %
+      LINE1          21        12235 bp    0.04 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1         31         9514 bp    0.03 %
+
+LTR elements:      4803      2441560 bp    7.94 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:      6825      2835175 bp    9.23 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      3002       954998 bp    3.11 %
+
+Total interspersed repeats:  6326594 bp   20.59 %
+
+
+Small RNA:           18         8430 bp    0.03 %
+
+Satellites:          45         3970 bp    0.01 %
+Simple repeats:    7330       437998 bp    1.43 %
+Low complexity:    1112        66806 bp    0.22 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.6.0+
+The query was compared to classified sequences in ".../Pd.lib"
+

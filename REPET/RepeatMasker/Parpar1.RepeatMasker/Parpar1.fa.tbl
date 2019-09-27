@@ -1,0 +1,51 @@
+==================================================
+file name: Parpar1.fa               
+sequences:           453
+total length:   32875972 bp  (31525098 bp excl N/X-runs)
+GC level:         38.76 %
+bases masked:    4524816 bp ( 13.76 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:              272        63530 bp    0.19 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:              675       317730 bp    0.97 %
+      LINE1         239       142683 bp    0.43 %
+      LINE2          30        14492 bp    0.04 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:      1856       572312 bp    1.74 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:      2285       994744 bp    3.03 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      5022      2053862 bp    6.25 %
+
+Total interspersed repeats:  4002178 bp   12.17 %
+
+
+Small RNA:           17         2699 bp    0.01 %
+
+Satellites:          13        10730 bp    0.03 %
+Simple repeats:   12272       447840 bp    1.36 %
+Low complexity:    1447        66359 bp    0.20 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.6.0+
+The query was compared to classified sequences in ".../Parpar1.lib"
+

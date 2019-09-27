@@ -1,0 +1,51 @@
+==================================================
+file name: Sporobolomyces.fa        
+sequences:            77
+total length:   21221161 bp  (20889258 bp excl N/X-runs)
+GC level:         53.74 %
+bases masked:     897071 bp ( 4.23 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:               85        32443 bp    0.15 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               16        11226 bp    0.05 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:       197       158311 bp    0.75 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI     42        44908 bp    0.21 %
+      ERV_classII     4         5546 bp    0.03 %
+
+DNA elements:        93        62948 bp    0.30 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:        91       108440 bp    0.51 %
+
+Total interspersed repeats:   373368 bp    1.76 %
+
+
+Small RNA:           22        19062 bp    0.09 %
+
+Satellites:           1           79 bp    0.00 %
+Simple repeats:   10700       384031 bp    1.81 %
+Low complexity:    2476       120978 bp    0.57 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.6.0+
+The query was compared to classified sequences in ".../Sporobolomyces.lib"
+

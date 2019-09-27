@@ -1,0 +1,51 @@
+==================================================
+file name: Coprinopsis.fa           
+sequences:            96
+total length:   36385305 bp  (36385305 bp excl N/X-runs)
+GC level:         51.64 %
+bases masked:    3415157 bp ( 9.39 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               91       128714 bp    0.35 %
+      LINE1          14        28855 bp    0.08 %
+      LINE2          40        85083 bp    0.23 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:      1532      2124154 bp    5.84 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI     23         8474 bp    0.02 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:       228       156907 bp    0.43 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:       857       660870 bp    1.82 %
+
+Total interspersed repeats:  3070645 bp    8.44 %
+
+
+Small RNA:           11         5936 bp    0.02 %
+
+Satellites:          53        51541 bp    0.14 %
+Simple repeats:    5128       233894 bp    0.64 %
+Low complexity:     985        53737 bp    0.15 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.6.0+
+The query was compared to classified sequences in ".../Coprinopsis.lib"
+

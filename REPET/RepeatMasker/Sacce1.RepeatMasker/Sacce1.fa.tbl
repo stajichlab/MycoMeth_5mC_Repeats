@@ -1,0 +1,51 @@
+==================================================
+file name: Sacce1.fa                
+sequences:            18
+total length:   12205179 bp  (12205179 bp excl N/X-runs)
+GC level:         38.19 %
+bases masked:     985343 bp ( 8.07 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:                6          402 bp    0.00 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:       656       493396 bp    4.04 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:        44        14034 bp    0.11 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:       132       308509 bp    2.53 %
+
+Total interspersed repeats:   816341 bp    6.69 %
+
+
+Small RNA:            6        12034 bp    0.10 %
+
+Satellites:           5        15512 bp    0.13 %
+Simple repeats:    2860       117192 bp    0.96 %
+Low complexity:     518        24323 bp    0.20 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.6.0+
+The query was compared to classified sequences in ".../Sacce1.lib"
+

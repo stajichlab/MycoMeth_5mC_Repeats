@@ -1,0 +1,51 @@
+==================================================
+file name: Phchr2.fa                
+sequences:           233
+total length:   35198021 bp  (32552713 bp excl N/X-runs)
+GC level:         56.81 %
+bases masked:    3195427 bp ( 9.08 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               41        29358 bp    0.08 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:      1894      2296206 bp    6.52 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:       196       191517 bp    0.54 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:       601       472293 bp    1.34 %
+
+Total interspersed repeats:  2989374 bp    8.49 %
+
+
+Small RNA:            1         1028 bp    0.00 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:    3953       186459 bp    0.53 %
+Low complexity:     405        20068 bp    0.06 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.6.0+
+The query was compared to classified sequences in ".../Phchr2.lib"
+

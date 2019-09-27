@@ -1,0 +1,51 @@
+==================================================
+file name: Cryptococcus.fa          
+sequences:            15
+total length:   18923391 bp  (18923391 bp excl N/X-runs)
+GC level:         48.23 %
+bases masked:    1231359 bp ( 6.51 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:               99        79945 bp    0.42 %
+      LINE1          28        42081 bp    0.22 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:       775       750600 bp    3.97 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:       171        74899 bp    0.40 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:        74        74669 bp    0.39 %
+
+Total interspersed repeats:   980113 bp    5.18 %
+
+
+Small RNA:            6         7636 bp    0.04 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:    3437       205990 bp    1.09 %
+Low complexity:     736        37899 bp    0.20 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.6.0+
+The query was compared to classified sequences in ".../Cryptococcus.lib"
+

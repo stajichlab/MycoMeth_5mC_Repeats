@@ -1,0 +1,51 @@
+==================================================
+file name: Coespi1.fa               
+sequences:            44
+total length:   19042089 bp  (19042089 bp excl N/X-runs)
+GC level:         46.50 %
+bases masked:    1926161 bp ( 10.12 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:              124       121379 bp    0.64 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:              120        80183 bp    0.42 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:       868       423354 bp    2.22 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:       238       184934 bp    0.97 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      1937       880621 bp    4.62 %
+
+Total interspersed repeats:  1690471 bp    8.88 %
+
+
+Small RNA:            9         9599 bp    0.05 %
+
+Satellites:           1           29 bp    0.00 %
+Simple repeats:    4649       193538 bp    1.02 %
+Low complexity:     736        34437 bp    0.18 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.6.0+
+The query was compared to classified sequences in ".../Coespi1.lib"
+
