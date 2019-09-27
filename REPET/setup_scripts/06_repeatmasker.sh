@@ -2,10 +2,8 @@
 #SBATCH --ntasks 8 --nodes 1 --mem 8G --time 1-0:0:0 --out RM.%A_%a.out
 
 module load RepeatMasker
-cd RepeatMasker
-#DIR=../runs
-DIR=/bigdata/stajichlab/shared/projects/MycoMeth/REPET/runs
-RMLIBPATH=/bigdata/stajichlab/shared/projects/MycoMeth/REPET/final_libraries
+DIR=$(realpath runs)
+RMLIBPATH=$(realpath final_libraries)
 CPUS=$SLURM_CPUS_ON_NODE
 if [ ! $CPUS ]; then
  CPUS=2
@@ -22,6 +20,7 @@ subdir=$(ls $DIR | sed -n ${N}p)
 file=$(ls $DIR/$subdir/*.fa | grep -v cDNA | grep -v _nt.fa)
 pref=$(basename $file .fa)
 echo "$subdir $file $pref"
+pushd RepeatMasker
 if [ ! -e $pref.fa ]; then
  ln -s $file .
 fi

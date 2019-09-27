@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+pushd libraries
 for lib in *.fa
 do
  b=$(basename $lib _denovoLibTEs_filtered_Blastclust.fa)
@@ -10,3 +12,4 @@ do
   echo "CONSENSUS=${b}_denovoLibTEs_filtered_Blastclust.fa" > $b/config.txt
  fi
 done
+popd

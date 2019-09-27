@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 FINALDIR=final_libraries
 INLIB=libraries
 for dir in $(ls $INLIB | grep -v fa);
