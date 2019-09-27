@@ -24,7 +24,7 @@ do
   base=$(basename $file .fasta)
   pre=$(echo $base | awk -F_ '{print $1}')
   echo "$file $base $pre"
-  ln -s /bigdata/stajichlab/shared/projects/MycoMeth/REPET/wgbs_genomes/$pre.cDNA.fa cDNA.fa
+  ln -s ../../wgbs_genomes/$pre.cDNA.fa cDNA.fa
  fi
  popd 
 done
